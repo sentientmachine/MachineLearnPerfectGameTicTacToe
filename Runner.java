@@ -20,9 +20,6 @@ public class Runner
 		//Code written by Eric Leschinski, idea nabbed from O'REILLY statistics hacks
 		//Hack #52.  
 		
-		//Usual disclaimer, no warranties, if it starts acting strangely, call Neo.
-		
-		
 		//Tic Tac Toe index positions
 		
 		// 0 | 1 | 2     
